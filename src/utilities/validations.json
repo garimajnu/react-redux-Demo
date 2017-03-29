@@ -1,0 +1,14 @@
+{
+  "username": [
+    {
+      "type": "required",
+      "error_code": "Username required"
+    }
+  ],
+  "password": [
+    {
+      "type": "required",
+      "error_code": "Password required"
+    }
+  ]
+}
